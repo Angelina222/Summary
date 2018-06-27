@@ -12,5 +12,5 @@
 ![Example1](/vector.jpg)
 ![Example1](/Пляж.jpg)
 ![Example1](/карусель.jpg)
-![Example1](/лис.pdf)
-![Example1](/фламинго.pdf)
+![Example1](/лис-001.jpg)
+![Example1](/фламинго-001.jpg)
