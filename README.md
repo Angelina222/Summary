@@ -13,4 +13,4 @@
 ![Example1](/фламинго-001.jpg)
 ![Example1](/vector.jpg)
 ![Example1](/карусель.jpg)
-![Example1](/лис-001.jpg)
+![Example1](/стикеры-001.jpg)
