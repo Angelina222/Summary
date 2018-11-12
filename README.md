@@ -13,6 +13,7 @@
 ![Example1](/фламинго-001.jpg)
 ![Example1](/vector.jpg)
 ![Example1](/Пляж.jpg)
+![Example1](/сайт.jpg)
 ![Example1](/пляж2.jpg)
 ![Example1](/карусель.jpg)
 ![Example1](/лис-001.jpg)
